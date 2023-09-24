@@ -1,0 +1,3 @@
+D:/Batu/Software-Projects/C-Stuff/cmake-build-debug/CMakeFiles/C_Stuff.dir
+D:/Batu/Software-Projects/C-Stuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Batu/Software-Projects/C-Stuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
