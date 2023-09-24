@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(C_Stuff
         #functions/functions.cpp
-        math/sum/sum_class.h
-        math/sum/sum.cpp)
+        src/math/sum/sum_class.h
+        src/math/sum/sum.cpp)
