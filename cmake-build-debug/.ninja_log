@@ -1,7 +1,0 @@
-# ninja log v5
-6	715	7172865940601343	CMakeFiles/C_Stuff.dir/functions/functions.cpp.obj	cfc176dc7a61a54b
-828	1105	7172868006773969	C_Stuff.exe	4eded0bee93e4dec
-1	464	7172868058883882	build.ninja	526e5fd670ce0d54
-6	661	7172867373479884	CMakeFiles/C_Stuff.dir/classes/sum/sum.cpp.obj	2d084cf24f0f565e
-1	827	7172868004043931	CMakeFiles/C_Stuff.dir/math/sum/sum.cpp.obj	74b2c9ccf9188b79
-1	256	7172868058883882	build.ninja	526e5fd670ce0d54
